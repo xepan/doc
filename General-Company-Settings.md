@@ -1,4 +1,4 @@
-TAB > #Company Information
+#TAB > Company Information
 
 ##Company General Information: 
 This Section deals with the Basic Information about the Company, just like you used to fill Personal Information about yourself in your academic forms.
@@ -31,7 +31,8 @@ It asks for the search keyword you would like search engines to list your websit
 After completing with the above details click Update button to save your information.
 
 ====================================================================================
-TAB>   #Default Email Settings
+#TAB>   Default Email Settings
+
 
 NOTE: PLEASE BE CAREFULL WHILE PROVIDING FOLLOWING INFORMATION.
 
@@ -104,9 +105,9 @@ Every e-mail message has a hidden field called the "Return-Path" address (someti
 	
 After completing with the above details click Update button to save your information.
 
-
 =========================
-TAB>	#SMS Settings
+#TAB>	SMS Settings
+
 
 ##Gate Way Info
 Here you provide the basic info about the service provider for your SMS Service.
