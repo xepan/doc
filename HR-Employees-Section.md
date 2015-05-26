@@ -5,7 +5,7 @@
       
 3. Click on the Employees.    
    
- We will get the this type of screen window:                                  ![](https://lh5.googleusercontent.com/-oA49vwBvw7k/VWRYh_neKmI/AAAAAAAAACs/_X-ObWmfGOY/w440-h167-p/E1.PNG)
+ We will get the this type of screen window:                                  ![](https://lh5.googleusercontent.com/-oA49vwBvw7k/VWRYh_neKmI/AAAAAAAAACs/_X-ObWmfGOY/w440-h167-p/E1.PNG)  
 4.Click on the Add Employees for add an new employee.                                                       We will get the screen:                                                             ![](https://lh3.googleusercontent.com/-hCwiyxjIGME/VWRZWTpM4YI/AAAAAAAAADA/P6bCLXHaV0c/w440-h167-p/E2.PNG)
 
 ![](https://lh6.googleusercontent.com/-Iwz2mWzjHc8/VWRZwsPGqkI/AAAAAAAAADU/t_3iV0aziaQ/w440-h167-p/E3.PNG)
