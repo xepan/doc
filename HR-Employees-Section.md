@@ -1,7 +1,7 @@
  # Tab Menu: HR>Employees    
-1.  Click on the tab HR.   
+1. Click on the tab HR.   
  
-2.  Go on drop down menu.   
+2. Go on drop down menu.   
       
 3. Click on the Employees.    
    
