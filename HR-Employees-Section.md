@@ -6,4 +6,4 @@
 
 ![](https://lh3.googleusercontent.com/-ebzC2Bpb-Q4/VWRaG_41hsI/AAAAAAAAADo/lsWTc4x5QEw/w440-h167-p/E4.PNG)
 
-![](https://lh5.googleusercontent.com/-pg11Tt8iGl8/VWRarjrGyDI/AAAAAAAAAD8/JfhZFonZQNo/w440-h167-p/E5.PNG)                                                                                                    You can add the Employees detail as per given option.
+![](https://lh5.googleusercontent.com/-pg11Tt8iGl8/VWRarjrGyDI/AAAAAAAAAD8/JfhZFonZQNo/w440-h167-p/E5.PNG)   You can add the Employees detail as per given option.
