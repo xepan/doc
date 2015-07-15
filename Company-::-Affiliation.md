@@ -1,6 +1,6 @@
 #Affiliate Management:
 
-	An affiliate is a commercial entity with a relationship with a peer or a larger entity. Or in other words, an affiliate is a company that is related to another company, usually by being in the position of a member or a subordinate role. Two companies may be affiliated if one company has control over the other or if both are controlled by a third company. So, xEpan allows you to manage various affiliates concerned with your company or organization. Just register them here so that your xEpan will keep track about them whenever required by you for some operation.
+An affiliate is a commercial entity with a relationship with a peer or a larger entity. Or in other words, an affiliate is a company that is related to another company, usually by being in the position of a member or a subordinate role. Two companies may be affiliated if one company has control over the other or if both are controlled by a third company. So, xEpan allows you to manage various affiliates concerned with your company or organization. Just register them here so that your xEpan will keep track about them whenever required by you for some operation.
 
 
 
