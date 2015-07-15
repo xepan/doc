@@ -146,3 +146,10 @@ If you want to add some particular suffix or prefix, as your signature or wishes
 		
 	
 After completing with the above details click Update button to save your information.
+
+#TAB> Misc Settings
+
+	Time Zone: 
+	This drop down let you set the time-zone according to the geo-location of your company.
+
+After Setting up the Time zone for your company, click on update button to save the changes.
