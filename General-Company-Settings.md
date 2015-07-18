@@ -10,14 +10,14 @@ This Section deals with the Basic Information about the Company, just like you u
 	It ask you for the Name of Owner of the Company. In case, if, business being a separate entity, just provide the name of company being registered with. 
 	Example: Mr. Gowrav Vishwakarma
 	> Mobile No.   : 
-	It ask you for the Registered Contact Information about the company. It starts with Country Prefix, followed by Conatct no.
+	It ask you for the Registered Contact Information about the company. It starts with Country Prefix, followed by Contact no.
 	Example: (+91)(9876543210)
 	> Email.		   :
 	It ask you for the registered mail-address of the conmpany.
 	Example: info@xavoc.company
 					
 ##Company Contact Information:
-This section ask for geo-location of the company, i.e. its Local Address, City, State, Country, and Pincode.
+This section asks for geo-location of the company, i.e. its Local Address, City, State, Country, and Pincode.
 	
 ##SEO(Search Engine Optimization) Information:
 It asks for the search keyword you would like search engines to list your website in the search results , when searched with the given words.
@@ -28,7 +28,7 @@ It asks for the search keyword you would like search engines to list your websit
 	This field contains the meta-information for use of search engines, to describe your page.
 	
 	
-After completing with the above details click Update button to save your information.
+After completing with the above details, click Update button to save your information.
 
 ====================================================================================
 #TAB>   Default Email Settings
@@ -37,12 +37,12 @@ After completing with the above details click Update button to save your informa
 NOTE: PLEASE BE CAREFULL WHILE PROVIDING FOLLOWING INFORMATION.
 
 ##Email Transporter To Use
-This drop-down ask you select the service you would like to employee for sending mails from your system. 
+This drop-down asks you to select the service you would like to employee for sending mails from your system. 
 
 NOTE: IF YOU ARE NOT SURE ABOUT THESE SERVICES, KEEP SMTP TRANSPORT SELECTED.
 	
 ##Connection Settings
-This section ask for the Encryption Type, Email Host Name, Email Port, Email User Name, Email Password
+This section asks for the Encryption Type, Email Host Name, Email Port, Email User Name, Email Password
 	
 	Encryption Type	:	
 	How can you send your mails securely that is being sent between applications across an untrusted network? The Transport Layer Security (TLS) protocol and the Secure Sockets Layer (SSL) protocol, provides answer to this common security question. TLS and SSL, authenticates and secures mail transfers by using certificate-based authentication and symmetric encryption keys.
@@ -60,7 +60,7 @@ This section ask for the Encryption Type, Email Host Name, Email Port, Email Use
 	Its specifies you secret password ;-) .
 		
 ##Email Reply To Setting:
-While the "From:" in the email header field basically serves to inform the recipient where the email is coming from, the "Email Reply-To:" field defines the email address that is automatically inserted into the "To:" email field when a affiliate replies to your email message. Today, almost in all organization, for emails, the "From:" and "Reply-To:" fields are the different, so you can specify the latter here, if exist.
+While the "From:" in the email header field basically serves to inform the recipient where the email is coming from, the "Email Reply-To:" field defines the email address that is automatically inserted into the "To:" email field when an affiliate replies to your email message. Today, almost in all organization, for emails, the "From:" and "Reply-To:" fields are the different, so you can specify the latter here, if exist.
 	
 	Email Reply To:
 	It specify the mail address, you want any queries or responses to arrive at, in return, from affiliates, if it is maintained.
@@ -71,7 +71,7 @@ While the "From:" in the email header field basically serves to inform the recip
 
 ##Email From:Sender Settings :
 
-Sometimes it happens that some other entity is sending emails on behalf of us or may be company. If its the case with you as well, you can specify them here.
+Sometimes it happens that some other entity is sending emails on behalf of us or may be company. If it's the case with you as well, you can specify them here.
 	
 	From Email:
 	The "From" Header is intended to be the entity that the message is from. It is who the recipient's email client should display the message is from.
@@ -90,7 +90,7 @@ Sometimes it happens that some other entity is sending emails on behalf of us or
 		
 		
 ##Email Throttling Settings
-Some ISPs limit the amount of email they accept from a particular sender during a specified period of time. If you try to send email above their acceptable threshold, they will reject your email resulting in a high number of bouncebacks. This is email throttling and is also referred to as a “deferral.” This refusal to deliver your mail is usually temporary, but it depends on the situation. I mean sometimes the receiving server doesn’t recognize your IP and is afraid you’re sending spam on such continuous sending or in bulk. This is why warming up is so important, so they know who you are. So, stay tuned with our provided options form this problem.
+Some ISPs limit the amount of email they accept from a particular sender during a specified period of time. If you try to send email above their acceptable threshold, they will reject your email resulting in a high number of bouncebacks. This is email throttling and is also referred to as a “deferral.” This refusal to deliver your mail is usually temporary, but it depends on the situation. I mean sometimes the receiving server doesn’t recognize your IP and is afraid you’re sending spam on such continuous sending or in bulk. This is why warming up is so important, so they know who you are. So, stay tuned with our provided options from this problem.
 	
 	Smtp Auto Reconnect:
 	It disconnects and then reconnects to server after sending specified no. of emails after sometime.
@@ -100,10 +100,10 @@ Some ISPs limit the amount of email they accept from a particular sender during 
 		
 
 ##Return Path
-Every e-mail message has a hidden field called the "Return-Path" address (sometimes called a "bounce address" or "From Address"). A bounce address is an e-mail address to which bounce messages (undeliverable notifications and mails, etc.) are delivered. There are many variants of the name, including return path, reverse path, envelope from, envelope sender, MAIL FROM, 5321-FROM, return address, From_, Errors-to, etc. If you maintain a separate account for such bounced mails, then specify that here, so that you can keep eye on the active and inactive recipients, which will save your time in context with concept of Email Throttling.
+Every e-mail message has a hidden field called the "Return-Path" address (sometimes called a "bounce address" or "From Address"). A bounce address is an e-mail address to which bounce messages (undeliverable notifications and mails, etc.) are delivered. There are many variants of the name, including the return path, reverse path, envelope from, envelope sender, MAIL FROM, 5321-FROM, return address, From_, Errors-to, etc. If you maintain a separate account for such bounced mails, then specify that here, so that you can keep an eye on the active and inactive recipients, which will save your time in context with the concept of Email Throttling.
 	
 	
-After completing with the above details click Update button to save your information.
+After completing with the above details, click Update button to save your information.
 
 =========================
 #TAB>	SMS Settings
@@ -123,7 +123,7 @@ Here you provide the basic info about the service provider for your SMS Service.
 		
 		
 ##Query String Info
-This section asks you for basic variables information, defined in your API, used to successfully send SMS. For more info, read its manual provided by service provider.
+This section asks you for basic variable information, defined in your API, used to successfully send SMS. For more info, read its manual provided by the service provider.
 	
 	Gateway User Name Query String Variable:
 	It ask you for the variable which your API uses for specifying USER_NAME.
@@ -136,7 +136,7 @@ This section asks you for basic variables information, defined in your API, used
 		
 	
 ##SMS Prefix And Postfix
-If you want to add some particular suffix or prefix, as your signature or wishes in the message, everytime you send message, You can specify them here.
+If you want to add some particular suffix or prefix, as your signature or wishes in the message, every time you send message, You can specify them here.
 	
 	Message Prefix:
 	As the name suggests, you can specify any pharse, you want appear just before your actual message.
@@ -145,11 +145,11 @@ If you want to add some particular suffix or prefix, as your signature or wishes
 	As the name suggests, you can specify pharse, you want appear at end of your actual message.
 		
 	
-After completing with the above details click Update button to save your information.
+After completing with the above details, click Update button to save your information.
 
 #TAB> Misc Settings
 
 	Time Zone: 
 	This drop down let you set the time-zone according to the geo-location of your company.
 
-After Setting up the Time zone for your company, click on update button to save the changes.
+After Setting up the Time zone for your company, click on the 'Update' button to save the changes.
